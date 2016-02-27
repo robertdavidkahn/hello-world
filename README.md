@@ -1,3 +1,4 @@
 # hello-world
 test
-new line of text added on branch
+New line of text added on branch.
+Another line of text has been added.
