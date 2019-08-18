@@ -10,6 +10,7 @@ aCircle2 = clsShape.Circle("c2")
 
 aSquare1 = clsShape.Circle("sq1")
 
-aCircle1.draw()
-aCircle2.draw()
-aSquare1.draw()
+aList = [ aCircle1, aCircle2, aSquare1 ]
+
+for item in aList:
+    item.draw()
